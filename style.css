@@ -1,0 +1,51 @@
+body{
+	font-family: helvetica; 
+}
+#wrap{
+	width: 1200px;
+	margin: auto;
+	background: white;
+	padding: 10px 20px;
+	color: #2cdbaa;
+
+}
+
+header nav ul{
+	list-style: none;
+	padding-left: 0; 	
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 10px;
+}
+header nav ul li a{
+	font-size: 16px;
+	color: #5a4de8;
+	text-decoration: none;
+}
+section ul{
+	list-style: none;
+	padding-left: 0;
+}
+section ul li{
+	display: inline-block;
+	margin-right: 10px;
+}
+section ul li a{
+	font-size: 16px;
+	color: #5a4de8;
+	text-decoration: none;
+}
+article p{
+	color: black;
+	text-decoration: blink;
+}
+section p{
+	font-size: 14px;
+	color: black;
+}
+section  a{
+	font-size: 14px;
+	color: #5a4de8;
+	text-decoration: none;
+}
